@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Salavat698&repo=movies-explorer-frontend-main)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/Salavat698/movies-explorer-frontend-main))
 
 
 
