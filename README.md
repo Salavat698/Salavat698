@@ -15,6 +15,6 @@
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
 </div>
 
-[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/slt116)
+[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/username)   
 
 
