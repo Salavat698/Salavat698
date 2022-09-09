@@ -2,8 +2,6 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/><p>Я  Frontend- разработчик.
 Люблю чистый и понятный код.</p></h1>
 
-
-
 <p>Мои стек: </p>
 <div style='display:inline'>
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
