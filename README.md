@@ -17,7 +17,5 @@
 </div>
 
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Salavat698)](https://github.com/Salavat698)
-
 ![](https://komarev.com/ghpvc/?username=Salavat698)
 
